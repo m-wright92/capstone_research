@@ -5,3 +5,4 @@
 * 10 looking into gems for the project
 * 12:15 Begin video on react/rails integration https://www.youtube.com/watch?v=oyjzi837wME&t=143s
 * 1:35 Build proposal
+* 2:36 Initialize project repo https://github.com/m-wright92/capstone-project
