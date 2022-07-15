@@ -33,6 +33,5 @@
 * 3:33 finalize db schema mvp
   <img width="1193" alt="image" src="https://user-images.githubusercontent.com/101528112/179325210-5d4ae859-47b1-4041-8f79-164b911cdcf4.png">
 
-  
-
+* 3:52 begin building db in project, had to clone project due to attempt to roll back changes
 
