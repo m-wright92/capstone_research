@@ -30,4 +30,9 @@
 * 1:55 research on uploading files to a rails app
   * https://www.youtube.com/watch?v=V2eaE29Zoms
 
+* 3:33 finalize db schema mvp
+  <img width="1193" alt="image" src="https://user-images.githubusercontent.com/101528112/179325210-5d4ae859-47b1-4041-8f79-164b911cdcf4.png">
+
+  
+
 
