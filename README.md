@@ -24,6 +24,10 @@
   * https://github.com/assaf/uuid
   * https://www.rubydoc.info/gems/uuid/2.3.8/UUID
 * 11:40 lunch
+* 12:40 more research on db schema
+  * https://www.youtube.com/watch?v=s6m8Aby2at8
 
+* 1:55 research on uploading files to a rails app
+  * https://www.youtube.com/watch?v=V2eaE29Zoms
 
 
