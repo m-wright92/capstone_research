@@ -19,3 +19,7 @@
 * 10 research db schema for a social media app
   * https://mysql.tutorials24x7.com/blog/guide-to-design-database-for-social-network-system-in-mysql
   * https://www.youtube.com/watch?v=sougyTO_Wjw
+  * https://www.geeksforgeeks.org/postgresql-data-types/
+  * https://www.w3schools.com/sql/sql_datatypes.asp
+
+
