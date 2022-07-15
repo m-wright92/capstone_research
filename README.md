@@ -21,5 +21,9 @@
   * https://www.youtube.com/watch?v=sougyTO_Wjw
   * https://www.geeksforgeeks.org/postgresql-data-types/
   * https://www.w3schools.com/sql/sql_datatypes.asp
+  * https://github.com/assaf/uuid
+  * https://www.rubydoc.info/gems/uuid/2.3.8/UUID
+* 11:40 lunch
+
 
 
