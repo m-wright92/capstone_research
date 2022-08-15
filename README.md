@@ -35,3 +35,8 @@
 
 * 3:52 begin building db in project, had to clone project due to attempt to roll back changes
 
+<!-- 07/22/22 -->
+
+* Should I use polymorphic relationships? https://semaphoreci.com/blog/2017/08/16/polymorphic-associations-in-rails.html
+
+.
